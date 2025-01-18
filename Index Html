@@ -3,13 +3,14 @@
     <Head>
     <meta charset="utf-8"><meta  name="viewport"content="width=device=width
     initial-scale=1.0"
-    <title>Structure of <Html></title> 
+    <title>Structure of Html
     </Head>
 <body>
+    <p>
     Intoducton to HTML.
     HTML is -Hyper text Markap Language.
-Hellow wolrd
+Hellow world
+</p>
 
-Catherine Lesson 1 - Commit
-<body>
-    <html>
+</body>
+    </Html>
